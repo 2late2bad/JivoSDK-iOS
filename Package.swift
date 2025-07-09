@@ -35,7 +35,7 @@ let package = Package(
         .package(url: "https://github.com/JivoChat/JMMarkdownKit.git", exact: "2.0.0"),
         .package(url: "https://github.com/JivoChat/JMTimelineKit.git", exact: "6.0.0"),
         .package(url: "https://github.com/JivoSite/pure-parser.git", exact: "2.0.0"),
-        .package(url: "https://github.com/JivoChat/ReachabilitySwift.git", exact: "6.0.0"),
+        .package(url: "https://github.com/JivoChat/ReachabilitySwift.git", exact: "5.2.1"),
     ],
     targets: [
         .target(
